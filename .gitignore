@@ -1,0 +1,13 @@
+# runtime data
+backend/data/
+*.db
+*.db-shm
+*.db-wal
+
+# frontend
+frontend/node_modules/
+frontend/dist/
+
+# misc
+*.log
+.DS_Store
